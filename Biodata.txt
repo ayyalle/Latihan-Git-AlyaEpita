@@ -1,0 +1,5 @@
+Nama     : Alya Epita Putri
+Umur     : 19
+Hobi     : Traveling
+Prodi    : Sistem Infromasi
+Semester : 2
