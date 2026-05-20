@@ -3,3 +3,4 @@ Umur     : 19
 Hobi     : Traveling
 Prodi    : Sistem Infromasi
 Semester : 2
+Alamat   : Garut
